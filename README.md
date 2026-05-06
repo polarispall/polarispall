@@ -57,9 +57,6 @@ I work across frontend, backend, databases, Linux systems, containers, and cloud
 
 ## Current Projects
 
-### Ski Resort Booking System
-Full-stack booking platform built with Django, PostgreSQL, Tailwind CSS, and AWS deployment infrastructure.
-
 ### Homelab Infrastructure
 Self-hosted Linux infrastructure using Docker, Nginx reverse proxies, SSL, SSH, and system automation.
 
