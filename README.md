@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Polaris
 
-<!--
-**polarispall/polarispall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building modern web applications and infrastructure.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React + TypeScript
+- Django + PostgreSQL
+- Docker + AWS
+- Linux + DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Portfolio website
+- Booking platform
+- Infrastructure & deployment tooling
+
+## Contact
+- Website: https://polarispall.com
+- Email: polaris@polarispall.com
